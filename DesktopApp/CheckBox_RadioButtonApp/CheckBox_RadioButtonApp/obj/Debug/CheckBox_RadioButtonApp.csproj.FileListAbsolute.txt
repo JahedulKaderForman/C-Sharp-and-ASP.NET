@@ -1,0 +1,10 @@
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\CheckBox_RadioButtonApp\CheckBox_RadioButtonApp\bin\Debug\CheckBox_RadioButtonApp.exe.config
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\CheckBox_RadioButtonApp\CheckBox_RadioButtonApp\bin\Debug\CheckBox_RadioButtonApp.exe
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\CheckBox_RadioButtonApp\CheckBox_RadioButtonApp\bin\Debug\CheckBox_RadioButtonApp.pdb
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\CheckBox_RadioButtonApp\CheckBox_RadioButtonApp\obj\Debug\CheckBox_RadioButtonApp.csprojAssemblyReference.cache
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\CheckBox_RadioButtonApp\CheckBox_RadioButtonApp\obj\Debug\CheckBox_RadioButtonApp.Form1.resources
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\CheckBox_RadioButtonApp\CheckBox_RadioButtonApp\obj\Debug\CheckBox_RadioButtonApp.Properties.Resources.resources
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\CheckBox_RadioButtonApp\CheckBox_RadioButtonApp\obj\Debug\CheckBox_RadioButtonApp.csproj.GenerateResource.cache
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\CheckBox_RadioButtonApp\CheckBox_RadioButtonApp\obj\Debug\CheckBox_RadioButtonApp.csproj.CoreCompileInputs.cache
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\CheckBox_RadioButtonApp\CheckBox_RadioButtonApp\obj\Debug\CheckBox_RadioButtonApp.exe
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\CheckBox_RadioButtonApp\CheckBox_RadioButtonApp\obj\Debug\CheckBox_RadioButtonApp.pdb

@@ -1,0 +1,11 @@
+c:\users\nadim\source\repos\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.exe.config
+c:\users\nadim\source\repos\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.exe
+c:\users\nadim\source\repos\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.pdb
+c:\users\nadim\source\repos\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.csprojAssemblyReference.cache
+c:\users\nadim\source\repos\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.Form1.resources
+c:\users\nadim\source\repos\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.Properties.Resources.resources
+c:\users\nadim\source\repos\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.csproj.GenerateResource.cache
+c:\users\nadim\source\repos\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.csproj.CoreCompileInputs.cache
+c:\users\nadim\source\repos\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.exe
+c:\users\nadim\source\repos\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.pdb
+C:\Users\Nadim\source\repos\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.Form2.resources

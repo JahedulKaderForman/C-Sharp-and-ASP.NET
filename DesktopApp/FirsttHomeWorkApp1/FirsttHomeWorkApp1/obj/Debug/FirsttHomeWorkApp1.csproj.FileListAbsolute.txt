@@ -1,0 +1,7 @@
+C:\Users\Nadim\source\repos\FirsttHomeWorkApp1\FirsttHomeWorkApp1\bin\Debug\FirsttHomeWorkApp1.exe.config
+C:\Users\Nadim\source\repos\FirsttHomeWorkApp1\FirsttHomeWorkApp1\bin\Debug\FirsttHomeWorkApp1.exe
+C:\Users\Nadim\source\repos\FirsttHomeWorkApp1\FirsttHomeWorkApp1\bin\Debug\FirsttHomeWorkApp1.pdb
+C:\Users\Nadim\source\repos\FirsttHomeWorkApp1\FirsttHomeWorkApp1\obj\Debug\FirsttHomeWorkApp1.csprojAssemblyReference.cache
+C:\Users\Nadim\source\repos\FirsttHomeWorkApp1\FirsttHomeWorkApp1\obj\Debug\FirsttHomeWorkApp1.csproj.CoreCompileInputs.cache
+C:\Users\Nadim\source\repos\FirsttHomeWorkApp1\FirsttHomeWorkApp1\obj\Debug\FirsttHomeWorkApp1.exe
+C:\Users\Nadim\source\repos\FirsttHomeWorkApp1\FirsttHomeWorkApp1\obj\Debug\FirsttHomeWorkApp1.pdb

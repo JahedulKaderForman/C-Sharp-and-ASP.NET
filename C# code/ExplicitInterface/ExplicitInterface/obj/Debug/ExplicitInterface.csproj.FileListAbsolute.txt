@@ -1,0 +1,7 @@
+C:\Users\Nadim\Desktop\Dot_net\C# code\ExplicitInterface\ExplicitInterface\bin\Debug\ExplicitInterface.exe.config
+C:\Users\Nadim\Desktop\Dot_net\C# code\ExplicitInterface\ExplicitInterface\bin\Debug\ExplicitInterface.exe
+C:\Users\Nadim\Desktop\Dot_net\C# code\ExplicitInterface\ExplicitInterface\bin\Debug\ExplicitInterface.pdb
+C:\Users\Nadim\Desktop\Dot_net\C# code\ExplicitInterface\ExplicitInterface\obj\Debug\ExplicitInterface.csprojAssemblyReference.cache
+C:\Users\Nadim\Desktop\Dot_net\C# code\ExplicitInterface\ExplicitInterface\obj\Debug\ExplicitInterface.csproj.CoreCompileInputs.cache
+C:\Users\Nadim\Desktop\Dot_net\C# code\ExplicitInterface\ExplicitInterface\obj\Debug\ExplicitInterface.exe
+C:\Users\Nadim\Desktop\Dot_net\C# code\ExplicitInterface\ExplicitInterface\obj\Debug\ExplicitInterface.pdb

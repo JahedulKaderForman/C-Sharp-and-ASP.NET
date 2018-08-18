@@ -1,0 +1,10 @@
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\InterestCalculatorApp\InterestCalculatorApp\bin\Debug\InterestCalculatorApp.exe.config
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\InterestCalculatorApp\InterestCalculatorApp\bin\Debug\InterestCalculatorApp.exe
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\InterestCalculatorApp\InterestCalculatorApp\bin\Debug\InterestCalculatorApp.pdb
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.csprojAssemblyReference.cache
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.Form1.resources
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.Properties.Resources.resources
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.csproj.GenerateResource.cache
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.exe
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\InterestCalculatorApp\InterestCalculatorApp\obj\Debug\InterestCalculatorApp.pdb

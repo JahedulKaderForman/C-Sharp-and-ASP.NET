@@ -1,0 +1,6 @@
+C:\Users\Forman khan\Desktop\Dot_net\WebAppExamBitm\WebAppExamBitm\bin\WebAppExamBitm.dll.config
+C:\Users\Forman khan\Desktop\Dot_net\WebAppExamBitm\WebAppExamBitm\bin\WebAppExamBitm.dll
+C:\Users\Forman khan\Desktop\Dot_net\WebAppExamBitm\WebAppExamBitm\bin\WebAppExamBitm.pdb
+C:\Users\Forman khan\Desktop\Dot_net\WebAppExamBitm\WebAppExamBitm\obj\Debug\WebAppExamBitm.csprojResolveAssemblyReference.cache
+C:\Users\Forman khan\Desktop\Dot_net\WebAppExamBitm\WebAppExamBitm\obj\Debug\WebAppExamBitm.dll
+C:\Users\Forman khan\Desktop\Dot_net\WebAppExamBitm\WebAppExamBitm\obj\Debug\WebAppExamBitm.pdb

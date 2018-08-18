@@ -1,0 +1,7 @@
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\PraticeApp\PraticeApp\bin\Debug\PraticeApp.exe.config
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\PraticeApp\PraticeApp\bin\Debug\PraticeApp.exe
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\PraticeApp\PraticeApp\bin\Debug\PraticeApp.pdb
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\PraticeApp\PraticeApp\obj\Debug\PraticeApp.csprojAssemblyReference.cache
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\PraticeApp\PraticeApp\obj\Debug\PraticeApp.csproj.CoreCompileInputs.cache
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\PraticeApp\PraticeApp\obj\Debug\PraticeApp.exe
+C:\Users\Nadim\Desktop\Dot_net\DesktopApp\PraticeApp\PraticeApp\obj\Debug\PraticeApp.pdb

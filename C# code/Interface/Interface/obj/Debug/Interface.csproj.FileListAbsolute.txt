@@ -1,0 +1,7 @@
+C:\Users\Nadim\Desktop\Dot_net\C# code\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Nadim\Desktop\Dot_net\C# code\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Nadim\Desktop\Dot_net\C# code\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Nadim\Desktop\Dot_net\C# code\Interface\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Nadim\Desktop\Dot_net\C# code\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Nadim\Desktop\Dot_net\C# code\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Nadim\Desktop\Dot_net\C# code\Interface\Interface\obj\Debug\Interface.pdb
